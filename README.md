@@ -12,5 +12,4 @@
 - Caio Labes de Castro
 - Brayan Carvalho
 - Lucas Zelleroff
-- Victor Purkott
 - Victor Gabriel Purkott Coelho 
